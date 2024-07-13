@@ -1,0 +1,3 @@
+ai_model: "llama3:8b"
+ai_vision_model: "llava-phi3:latest"
+
