@@ -4,6 +4,8 @@
 ## Descripción
 AINamer es una herramienta de Python que utiliza inteligencia artificial para renombrar archivos de manera inteligente basándose en su contenido. Soporta una variedad de tipos de archivo, incluyendo documentos de texto, hojas de cálculo, PDFs e imágenes.
 
+![](https://github.com/crizconzeta/ainamer/blob/main/airenamer.gif)
+
 ## Características
 - Renombra archivos basándose en su contenido usando IA.
 - Soporta múltiples tipos de archivo (txt, docx, xlsx, csv, pdf, jpg, png).
